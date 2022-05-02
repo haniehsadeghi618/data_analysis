@@ -1,3 +1,2 @@
 # data_analysis
-
-hello world
+git clone <link to the repository>
